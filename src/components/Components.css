@@ -1,0 +1,44 @@
+.textbox {
+    margin-bottom: 0;
+}
+
+.buttonForm {
+    margin-top: 1.5rem;
+}
+
+.buscador {
+    margin-bottom: 1.5rem;
+}
+
+.tableButtons {
+    margin-top: 1.5rem;
+}
+
+.tableButtons button {
+    margin: 1rem
+}
+
+table {
+    width: 100%;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+  }
+  
+  a.active {
+    background-color: white;
+    color: #333;
+  }
+  
+  
